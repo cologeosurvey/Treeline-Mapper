@@ -19,6 +19,8 @@ Select the Analytical download setting, then set the image format to TIFF. Keep 
 
 Select the downloaded NVDI layer as your NVDI raster for the toolbox.
 
+Keep in mind, the NVDI changes a lot depending on time of year, the original values were calibrated for January. Using another time of year may provide inconsistency. For best results, study the NVDI in a small area to find out the optimal values.
+
 ### DEM (In Feet)
 The DEM can be acquired however preferred. The [DEM-Clipper](https://github.com/cologeosurvey/DEM-Clipper/tree/main) can be accessed for this purpose.
   
